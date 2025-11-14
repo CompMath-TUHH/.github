@@ -1,5 +1,3 @@
-## Chair Computational Mathematics - Hamburg University of Technology
-
 👋 Hi there ! We are the research team of the [Chair Computational Mathematics](https://www.mat.tuhh.de/forschung/cm) 
 from the [Math Institute](https://www.mat.tuhh.de) of [Hamgurg University of Technology (TUHH)](https://www.tuhh.de/tuhh/en/startpage).
 
