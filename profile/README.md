@@ -1,5 +1,5 @@
 👋 Hi there ! We are the research team of the [Chair Computational Mathematics](https://www.mat.tuhh.de/forschung/cm) 
-from the [Math Institute](https://www.mat.tuhh.de) of [Hamgurg University of Technology (TUHH)](https://www.tuhh.de/tuhh/en/startpage).
+from the [Math Institute](https://www.mat.tuhh.de) of [Hamburg University of Technology (TUHH)](https://www.tuhh.de/tuhh/en/startpage).
 
 Our research topics cover the development and analysis of numerical methods for numerical simulations in science and engineering, in particular
 
